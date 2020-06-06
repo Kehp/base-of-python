@@ -10,7 +10,7 @@ def triangles():
         list1.append(list3)
         list2 = list3
         yield list1[i]
-
+      
 
 if __name__ == '__main__':
     n = 0
